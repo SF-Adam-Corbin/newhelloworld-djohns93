@@ -6,7 +6,3 @@ def hello_world():
   
   return variable_name
 
-
-variable_name="Hello_world!"
-
-print(hello_world())
